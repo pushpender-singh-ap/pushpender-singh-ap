@@ -13,6 +13,8 @@
   <img align="left" alt="Pushpender Singh GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pushpender-singh-ap&show_icons=true&hide_border=true" />
 </details>
 
+---
+
 <details>
   <summary>:zap: Top Langs</summary>
   <img align="left" alt="Pushpender Singh GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpender-singh-ap&layout=compact" />
