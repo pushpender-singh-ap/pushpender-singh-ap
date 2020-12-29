@@ -15,6 +15,6 @@
 
 <details>
   <summary>:zap: Top Langs</summary>
-  <img alt="Pushpender Singh Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpender-singh-ap&layout=compact" />
+  <img alt="Pushpender Singh Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpender-singh-ap&layout=compact&count_private=true" />
 </details>
 
