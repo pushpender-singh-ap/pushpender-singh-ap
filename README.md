@@ -10,7 +10,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Pushpender Singh GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pushpender-singh-ap&show_icons=true&hide_border=true" />
+  <img align="left" alt="Pushpender Singh GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pushpender-singh-ap&show_icons=true&hide_border=true&count_private=true" />
 </details>
 
 <details>
@@ -18,5 +18,3 @@
   <img alt="Pushpender Singh Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpender-singh-ap&layout=compact" />
 </details>
 
-<summary>:zap: willianrod's wakatime stats</summary>
-<img alt="Pushpender Singh willianrod's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=pushpender-singh-ap&layout=compact" />
