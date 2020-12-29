@@ -15,5 +15,8 @@
 
 <details>
   <summary>:zap: Top Langs</summary>
-  <img alt="Pushpender Singh GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpender-singh-ap&layout=compact" />
+  <img alt="Pushpender Singh Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpender-singh-ap&layout=compact" />
 </details>
+
+<summary>:zap: willianrod's wakatime stats</summary>
+<img alt="Pushpender Singh willianrod's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=pushpender-singh-ap&layout=compact" />
