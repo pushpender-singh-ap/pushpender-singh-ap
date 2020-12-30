@@ -10,7 +10,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Pushpender Singh GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pushpender-singh-ap&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+  <img align="left" alt="Pushpender Singh GitHub Stats" src="https://github-readme-stats.pushpender-singh-ap.vercel.app/api?username=pushpender-singh-ap&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 </details>
 
 <details>
