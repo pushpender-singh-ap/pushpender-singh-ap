@@ -1,4 +1,5 @@
-### Hi there It's me Pushpender Singh 👋👋
+<h1 align="center">Hi 👋, I'm Pushpender Singh</h1>
+<h3 align="center">A self-taught programmer and born at very little age😜</h3>
 
 👔[linekdin](https://www.linkedin.com/in/pushpender-singh-240061202/) | 📧 [mail](mailto:pushpendersingh694@gmail.com)
 
