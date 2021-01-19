@@ -8,6 +8,6 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Pushpender Singh Spotify Playing" width="350" />](https://open.spotify.com/user/soa7xlupbsktog3ztrm3l68r8)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="SONG #1" width="350" />](https://open.spotify.com/user/soa7xlupbsktog3ztrm3l68r8)
 
 ---
