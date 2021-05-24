@@ -17,4 +17,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpender-singh-ap&theme=radical)](https://github.com/pushpender-singh-ap/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=pushpender-singh-ap&color=blue)
 <!--
-**shubhraagarwal/shubhraagarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pushpender-singh-ap/pushpender-singh-ap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
