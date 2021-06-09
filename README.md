@@ -14,6 +14,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Week: 01 June, 2021 - 08 June, 2021
+
 JavaScript   2 hrs 51 mins   ████████████████████████▒   97.94 % 
 Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
