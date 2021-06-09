@@ -13,6 +13,11 @@
 ---
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   2 hrs 51 mins   ████████████████████████▒   97.94 % 
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+```
 <!--END_SECTION:waka-->
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pushpender-singh-ap&theme=dark" /></br>
