@@ -12,8 +12,9 @@
 
 ---
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pushpender-singh-ap&theme=dark" /></br>
 ![Pushpender Singh's github stats](https://github-readme-stats.vercel.app/api?username=pushpender-singh-ap&show_icons=true&theme=radical&count_private=true)</br>
