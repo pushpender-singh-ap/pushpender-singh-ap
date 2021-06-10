@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 June, 2021 - 08 June, 2021
+Week: 02 June, 2021 - 09 June, 2021
 
 JavaScript   7 hrs 10 mins   ██████████████████████▒░░   88.68 % 
 Dart         48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
