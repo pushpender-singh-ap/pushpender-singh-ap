@@ -14,13 +14,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 June, 2021 - 17 June, 2021
+Week: 11 June, 2021 - 18 June, 2021
 
-JavaScript   9 hrs 28 mins   ████████████████████░░░░░   79.61 % 
-Dart         1 hr 29 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Groovy       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-Properties   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+JavaScript   8 hrs 16 mins   ███████████████████▓░░░░░   78.26 % 
+Dart         1 hr 29 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Properties   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Markdown     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 ```
 <!--END_SECTION:waka-->
 
