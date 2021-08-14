@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 August, 2021 - 12 August, 2021
+Week: 07 August, 2021 - 13 August, 2021
 
 JavaScript   6 hrs 39 mins   █████████████████░░░░░░░░   68.08 % 
 Kotlin       2 hrs 9 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.04 % 
