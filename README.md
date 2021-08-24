@@ -11,13 +11,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 August, 2021 - 22 August, 2021
+Week: 17 August, 2021 - 23 August, 2021
 
-JavaScript   9 hrs 47 mins   █████████████▓░░░░░░░░░░░   55.09 % 
-Kotlin       3 hrs 9 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Java         1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-XML          1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-HTML         37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+JavaScript   9 hrs 42 mins   ██████████████░░░░░░░░░░░   55.38 % 
+Kotlin       3 hrs 9 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.02 % 
+Java         1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+XML          1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+HTML         36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 ```
 <!--END_SECTION:waka-->
 
