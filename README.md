@@ -11,10 +11,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 August, 2021 - 28 August, 2021
+Week: 23 August, 2021 - 29 August, 2021
 
-JavaScript   3 hrs 54 mins   ██████████████████████▓░░   90.92 % 
-Groovy       22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+JavaScript   2 hrs 59 mins   ██████████████████████░░░   88.46 % 
+Groovy       22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
 ```
 <!--END_SECTION:waka-->
 
