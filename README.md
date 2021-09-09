@@ -11,10 +11,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 September, 2021 - 07 September, 2021
+Week: 02 September, 2021 - 08 September, 2021
 
-JavaScript   2 hrs 16 mins   ██████████████████████▓░░   91.07 % 
-Kotlin       13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+JavaScript   3 hrs 23 mins   ███████████████████████▒░   93.85 % 
+Kotlin       13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
 ```
 <!--END_SECTION:waka-->
 
