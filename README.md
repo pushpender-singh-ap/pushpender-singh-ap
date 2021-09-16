@@ -11,11 +11,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 September, 2021 - 14 September, 2021
+Week: 09 September, 2021 - 15 September, 2021
 
-JavaScript   11 hrs 35 mins  ████████████████████████▒   96.82 % 
-JSON         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-Markdown     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+JavaScript   10 hrs 27 mins  ████████████████████████░   96.49 % 
+JSON         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Markdown     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 <!--END_SECTION:waka-->
 
