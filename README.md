@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **React Native, Flutter, Kotlin**
 - ⚡ Fun fact **I love to play Badminton and Football.**
 
-👔[linekdin](https://www.linkedin.com/in/pushpender-singh-240061202/) | 📧 [mail](mailto:pushpendersingh694@gmail.com) | ![](https://komarev.com/ghpvc/?username=pushpender-singh-ap&color=blue)
+👔[linekdin](https://www.linkedin.com/in/pushpender-singh-240061202/) | 📧 [mail](mailto:pushpendersingh@p2devs.com) | ![](https://komarev.com/ghpvc/?username=pushpender-singh-ap&color=blue)
 
 
 ---
