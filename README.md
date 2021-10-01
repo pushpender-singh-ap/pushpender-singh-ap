@@ -11,13 +11,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 September, 2021 - 29 September, 2021
+Week: 24 September, 2021 - 30 September, 2021
 
-JavaScript   31 hrs 21 mins  ███████████████████▒░░░░░   77.82 % 
-Groovy       2 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-JSON         1 hr 53 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-XML          1 hr 16 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-Java         53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+JavaScript   31 hrs 23 mins  ████████████████████░░░░░   79.95 % 
+Groovy       2 hrs 8 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+JSON         1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Java         51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+XML          49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 ```
 <!--END_SECTION:waka-->
 
