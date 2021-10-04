@@ -11,13 +11,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 September, 2021 - 02 October, 2021
+Week: 27 September, 2021 - 03 October, 2021
 
-JavaScript   28 hrs 44 mins  ██████████████████████▓░░   91.09 % 
-Groovy       57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-Git Config   37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-JSON         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+JavaScript   19 hrs 39 mins  ██████████████████████▓░░   90.46 % 
+Git Config   37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Groovy       32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
 <!--END_SECTION:waka-->
 
