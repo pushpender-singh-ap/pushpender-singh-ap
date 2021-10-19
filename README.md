@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 October, 2021 - 17 October, 2021
+Week: 12 October, 2021 - 18 October, 2021
 
 JavaScript   12 hrs 50 mins  ███████████████████████▒░   93.25 % 
 JSON         43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
