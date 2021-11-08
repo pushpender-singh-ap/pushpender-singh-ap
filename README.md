@@ -11,13 +11,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 October, 2021 - 06 November, 2021
+Week: 01 November, 2021 - 07 November, 2021
 
-JavaScript   8 hrs 5 mins    ████████████████▒░░░░░░░░   65.20 % 
-JSON         1 hr 36 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Other        1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-YAML         51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Groovy       32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+JavaScript   8 hrs 30 mins   █████████████░░░░░░░░░░░░   52.35 % 
+JSON         2 hrs 45 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Other        1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Groovy       1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+YAML         42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 ```
 <!--END_SECTION:waka-->
 
