@@ -11,13 +11,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 December, 2021 - 05 January, 2022
+Week: 31 December, 2021 - 06 January, 2022
 
-JavaScript   28 hrs 1 min    ██████████████████████▒░░   88.88 % 
-Groovy       1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-JSON         1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-YAML         50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-Properties   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+JavaScript   30 hrs 41 mins  ██████████████████████░░░   87.90 % 
+JSON         1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+Groovy       1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+YAML         50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+XML          8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
 <!--END_SECTION:waka-->
 
