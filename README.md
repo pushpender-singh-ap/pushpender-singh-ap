@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 January, 2022 - 21 January, 2022
+Week: 16 January, 2022 - 22 January, 2022
 
 JavaScript   17 hrs 42 mins  ████████████████▓░░░░░░░░   66.19 % 
 Groovy       4 hrs 5 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 % 
