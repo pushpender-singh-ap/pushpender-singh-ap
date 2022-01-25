@@ -11,13 +11,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 January, 2022 - 23 January, 2022
+Week: 18 January, 2022 - 24 January, 2022
 
-JavaScript   13 hrs 51 mins  ███████████████▒░░░░░░░░░   60.97 % 
-Groovy       4 hrs 19 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.02 % 
-JSON         2 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-Java         1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Other        36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+JavaScript   16 hrs 19 mins  █████████████████▒░░░░░░░   69.64 % 
+Groovy       2 hrs 56 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+JSON         2 hrs 4 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Java         46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Other        36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 ```
 <!--END_SECTION:waka-->
 
