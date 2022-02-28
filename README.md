@@ -10,15 +10,17 @@
 ---
 
 <!--START_SECTION:waka-->
-```text
-From: 18 February, 2022 - To: 25 February, 2022
 
-JavaScript   15 hrs 39 mins  ███████████████████████▒░   93.03 % 
-JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-Groovy       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-Other        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-Text         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+JavaScript   14 hrs 40 mins  ████████████████████▓░░░░   82.40 %
+XML          58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+JSON         49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+Groovy       40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Other        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
+
 <!--END_SECTION:waka-->
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pushpender-singh-ap&theme=dark" /></br>
