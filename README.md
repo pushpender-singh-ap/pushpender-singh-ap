@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pushpender Singh</h1>
-<h3 align="center">A self-taught programmer and born at very little age😜</h3>
+<h3 align="center">A self-taught programmer who is constantly trying to learn something new and interesting. React Native is one of my favorite technologies.</h3>
 
 - 🌱 I’m currently learning **React Native, Flutter, Kotlin**
 - ⚡ Fun fact **I love to play Badminton and Football.**
