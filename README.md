@@ -23,8 +23,8 @@ Other           30 mins         ▓░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pushpender-singh-ap" /></br>
-![Pushpender Singh's github stats](https://github-readme-stats.vercel.app/api?username=pushpender-singh-ap&show_icons=true&count_private=true)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpender-singh-ap)](https://github.com/pushpender-singh-ap/github-readme-stats)
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pushpender-singh-ap&theme=dark" /></br>
+![Pushpender Singh's github stats](https://github-readme-stats.vercel.app/api?username=pushpender-singh-ap&show_icons=true&theme=radical&count_private=true)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpender-singh-ap&theme=radical)](https://github.com/pushpender-singh-ap/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pushpender-singh-ap)](https://github.com/pushpender-singh-ap/pushpender-singh-ap)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pushpender-singh-ap&theme=radical)](https://github.com/pushpender-singh-ap/pushpender-singh-ap)
