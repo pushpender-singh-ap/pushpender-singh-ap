@@ -12,14 +12,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 November 2022 - To: 08 November 2022
+From: 02 November 2022 - To: 09 November 2022
 
-JavaScript      8 hrs 32 mins   ████████████████▓░░░░░░░░   67.25 %
-JSON            1 hr 24 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
-Groovy          47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
-XML             37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-Markdown        33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-Other           19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+JavaScript      8 hrs 15 mins   ██████████████▒░░░░░░░░░░   57.79 %
+JSON            2 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
+Groovy          1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+Markdown        41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+XML             38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+Java            30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
 ```
 
 <!--END_SECTION:waka-->
