@@ -12,11 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 January 2023 - To: 17 January 2023
+From: 11 January 2023 - To: 18 January 2023
 
-JavaScript    7 hrs 45 mins   █████████████████▓░░░░░░░   71.28 %
+JavaScript    7 hrs 54 mins   ██████████████████▒░░░░░░   72.72 %
 Java          51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-JSON          44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+JSON          34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
 XML           23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
 TypeScript    22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
 Groovy        17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
