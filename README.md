@@ -12,14 +12,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 February 2023 - To: 19 February 2023
+From: 13 February 2023 - To: 20 February 2023
 
-JavaScript   4 hrs 23 mins   █████████████████░░░░░░░░   68.31 %
-JSON         46 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
-Git Config   37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-Groovy       13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-Diff         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+JavaScript   4 hrs 44 mins   ████████████████████░░░░░   80.55 %
+Git Config   36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
+Groovy       13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+XML          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
