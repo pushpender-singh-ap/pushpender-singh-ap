@@ -12,14 +12,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 March 2023 - To: 23 March 2023
+From: 17 March 2023 - To: 24 March 2023
 
-JavaScript   8 hrs 29 mins   █████████████████▒░░░░░░░   69.17 %
-JSON         2 hrs 24 mins   █████░░░░░░░░░░░░░░░░░░░░   19.58 %
-Git          24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-Properties   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-CocoaPods    11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-Ruby         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+JavaScript   9 hrs 19 mins   █████████████████▒░░░░░░░   68.86 %
+JSON         2 hrs 43 mins   █████░░░░░░░░░░░░░░░░░░░░   20.12 %
+Git          24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Properties   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Markdown     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+CocoaPods    11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->
