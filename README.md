@@ -12,14 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 March 2023 - To: 02 April 2023
+From: 27 March 2023 - To: 03 April 2023
 
-JavaScript      6 hrs 28 mins   ████████████████████████░   96.27 %
-Objective-C++   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-JSON            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Groovy          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-TypeScript      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Git             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+JavaScript      5 hrs 15 mins   ████████████████████░░░░░   80.26 %
+Other           51 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
 ```
 
 <!--END_SECTION:waka-->
