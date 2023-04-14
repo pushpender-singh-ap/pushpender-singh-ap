@@ -12,12 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 April 2023 - To: 12 April 2023
+From: 06 April 2023 - To: 13 April 2023
 
-JavaScript   3 hrs 2 mins    ██████████████▒░░░░░░░░░░   57.50 %
-Batchfile    1 hr 41 mins    ████████░░░░░░░░░░░░░░░░░   32.04 %
-Markdown     12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-Other        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Batchfile    1 hr 41 mins    ███████████░░░░░░░░░░░░░░   43.80 %
+JavaScript   1 hr 35 mins    ██████████▒░░░░░░░░░░░░░░   41.37 %
+Markdown     14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+Other        9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
 ```
 
 <!--END_SECTION:waka-->
