@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2023 - To: 11 June 2023
+From: 05 June 2023 - To: 12 June 2023
 
-JavaScript   16 hrs 44 mins  █████████████████████░░░░   84.38 %
-JSON         2 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
-TypeScript   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-Git          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Properties   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+JavaScript   16 hrs 9 mins   █████████████████████░░░░   83.75 %
+JSON         2 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
+TypeScript   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+Git          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Properties   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
