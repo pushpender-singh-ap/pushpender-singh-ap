@@ -12,12 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2023 - To: 24 August 2023
+From: 18 August 2023 - To: 25 August 2023
 
-XML          10 mins         ███████████████▓░░░░░░░░░   62.70 %
-JSON         5 mins          ████████▒░░░░░░░░░░░░░░░░   33.35 %
-JavaScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-Groovy       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+JavaScript   14 mins         ████████████░░░░░░░░░░░░░   47.91 %
+XML          10 mins         ████████▒░░░░░░░░░░░░░░░░   33.49 %
+JSON         5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.11 %
+Groovy       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
