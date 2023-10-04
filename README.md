@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 September 2023 - To: 02 October 2023
+From: 26 September 2023 - To: 03 October 2023
 
-JavaScript      5 hrs 38 mins   ████████████▒░░░░░░░░░░░░   48.90 %
-Objective-C++   2 hrs 25 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.94 %
-JSON            1 hr 21 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
-Swift           42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-TypeScript      35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+JavaScript       5 hrs 49 mins   ████████████████████▓░░░░   82.22 %
+JSON             20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+Objective-C++    17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+TypeScript       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Swift            13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
 ```
 
 <!--END_SECTION:waka-->
