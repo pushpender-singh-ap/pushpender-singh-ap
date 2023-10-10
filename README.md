@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2023 - To: 08 October 2023
+From: 02 October 2023 - To: 09 October 2023
 
 JavaScript       1 hr 48 mins    ███████████████░░░░░░░░░░   59.45 %
 Objective-C++    17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
