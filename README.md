@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 October 2023 - To: 18 October 2023
+From: 12 October 2023 - To: 19 October 2023
 
 JavaScript   1 hr 47 mins    █████████████████▓░░░░░░░   70.72 %
 Assembly     25 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.96 %
