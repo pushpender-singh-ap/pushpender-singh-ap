@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 November 2023 - To: 22 November 2023
+From: 16 November 2023 - To: 23 November 2023
 
-XML               53 mins         ███████░░░░░░░░░░░░░░░░░░   28.64 %
-JSON              38 mins         █████░░░░░░░░░░░░░░░░░░░░   20.65 %
-CocoaPods         34 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.26 %
-JavaScript        15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
-Other             14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
+JavaScript        29 mins         ██████░░░░░░░░░░░░░░░░░░░   23.36 %
+JSON              27 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.89 %
+Other             16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
+XML               15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
+CocoaPods         10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
 ```
 
 <!--END_SECTION:waka-->
