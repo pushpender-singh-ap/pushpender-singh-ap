@@ -12,12 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2023 - To: 04 December 2023
+From: 28 November 2023 - To: 05 December 2023
 
-JSON         48 mins         ████████████░░░░░░░░░░░░░   47.78 %
-JavaScript   44 mins         ███████████░░░░░░░░░░░░░░   43.79 %
-XML          8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
-Groovy       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
