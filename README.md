@@ -12,9 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 November 2023 - To: 06 December 2023
+From: 30 November 2023 - To: 07 December 2023
 
-No activity tracked
+Markdown          15 mins         ██████████████████▓░░░░░░   74.76 %
+Groovy            4 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.25 %
+Other             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Batchfile         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
