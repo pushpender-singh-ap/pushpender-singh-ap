@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2023 - To: 08 December 2023
+From: 02 December 2023 - To: 09 December 2023
 
 Markdown          15 mins         ██████████████████▓░░░░░░   74.76 %
 Groovy            4 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.25 %
