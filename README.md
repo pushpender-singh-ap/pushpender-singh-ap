@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 December 2023 - To: 14 December 2023
+From: 08 December 2023 - To: 15 December 2023
 
 JavaScript        2 hrs 1 min     ██████████████░░░░░░░░░░░   56.60 %
 JSON              45 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.16 %
