@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2023 - To: 02 January 2024
+From: 27 December 2023 - To: 03 January 2024
 
-JavaScript   6 hrs 42 mins   ███████████████████████▓░   94.27 %
-Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-Git          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-XML          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+JavaScript   7 hrs 6 mins    ███████████████████████░░   91.86 %
+JSON         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Git          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+TypeScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
