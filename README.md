@@ -12,13 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2024 - To: 11 January 2024
+From: 05 January 2024 - To: 12 January 2024
 
-JavaScript   9 mins          █████████████▒░░░░░░░░░░░   53.63 %
-JSON         6 mins          █████████▒░░░░░░░░░░░░░░░   37.57 %
-Git          0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
-Git Config   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
