@@ -12,11 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2024 - To: 23 January 2024
+From: 17 January 2024 - To: 24 January 2024
 
-JavaScript        51 mins         █████████████████████████   99.43 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+JavaScript   40 mins         ████████████████████████▓   98.10 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->
