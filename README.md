@@ -12,11 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2024 - To: 01 February 2024
+From: 26 January 2024 - To: 02 February 2024
 
-Groovy       15 mins         █████████████▓░░░░░░░░░░░   54.34 %
-XML          8 mins          ███████▒░░░░░░░░░░░░░░░░░   29.99 %
-JavaScript   4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
+JavaScript   2 hrs 30 mins   ██████████████████████░░░   88.29 %
+JSON         19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
+Groovy       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
