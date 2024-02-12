@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 February 2024 - To: 10 February 2024
+From: 04 February 2024 - To: 11 February 2024
 
 JavaScript        1 hr 38 mins    █████████▓░░░░░░░░░░░░░░░   38.55 %
 Groovy            1 hr 16 mins    ███████▒░░░░░░░░░░░░░░░░░   29.99 %
