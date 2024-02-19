@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2024 - To: 17 February 2024
+From: 11 February 2024 - To: 18 February 2024
 
 Kotlin            1 hr 46 mins    ████████▒░░░░░░░░░░░░░░░░   33.37 %
 JavaScript        1 hr 20 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.30 %
