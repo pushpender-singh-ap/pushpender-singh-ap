@@ -4,7 +4,10 @@
 - 🌱 I’m currently learning **React Native, Kotlin**
 - ⚡ Fun fact **I love to play Badminton and Football.**
 
-👔[linekdin](https://www.linkedin.com/in/pushpender-singh-240061202/) | 📧 [mail](mailto:pushpendersingh694@gmail.com) | ![](https://komarev.com/ghpvc/?username=pushpender-singh-ap&color=blue)
+👔[linekdin](https://www.linkedin.com/in/pushpender-singh-240061202/) | 📧 [mail](mailto:pushpendersingh694@gmail.com) | 
+<a href="https://github.com/pushpender-singh-ap/pushpender-singh-ap">
+    <img src="https://komarev.com/ghpvc/?username=pushpender-singh-ap&style=for-the-badge">
+</a>
 
 
 ---
@@ -22,6 +25,7 @@ CocoaPods         13 mins         █░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
 
 | <a><img align="center" src="https://github-readme-stats-iota-ecru-15.vercel.app/api?username=pushpender-singh-ap&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pushpender Singh github stats" /></a> | <a><img align="center" src="https://github-readme-stats-iota-ecru-15.vercel.app/api/top-langs/?username=pushpender-singh-ap&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
