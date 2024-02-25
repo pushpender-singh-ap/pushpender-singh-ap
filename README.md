@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 February 2024 - To: 23 February 2024
+From: 17 February 2024 - To: 24 February 2024
 
 JavaScript   3 hrs 10 mins   ██████████████████████▒░░   89.28 %
 JSON         14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
