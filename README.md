@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 March 2024 - To: 01 April 2024
+From: 26 March 2024 - To: 02 April 2024
 
-JavaScript      37 mins         ███████▓░░░░░░░░░░░░░░░░░   30.23 %
-CocoaPods       25 mins         █████░░░░░░░░░░░░░░░░░░░░   20.23 %
-JSON            21 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.09 %
-Objective-C     16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
-Java            8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+JavaScript      39 mins         ████████░░░░░░░░░░░░░░░░░   32.29 %
+CocoaPods       25 mins         █████░░░░░░░░░░░░░░░░░░░░   20.40 %
+Objective-C     16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
+JSON            11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
+Groovy          9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
 ```
 
 <!--END_SECTION:waka-->
