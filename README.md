@@ -15,11 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2024 - To: 20 April 2024
+From: 14 April 2024 - To: 21 April 2024
 
-JavaScript   54 mins         ████████████████████░░░░░   80.57 %
-JSON         7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
-XML          5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+JavaScript      2 hrs 18 mins   █████████████████▒░░░░░░░   69.27 %
+JSON            17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
+XML             10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+CocoaPods       9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+Other           8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
 ```
 
 <!--END_SECTION:waka-->
