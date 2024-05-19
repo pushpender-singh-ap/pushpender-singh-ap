@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 May 2024 - To: 17 May 2024
+From: 11 May 2024 - To: 18 May 2024
 
-TypeScript        1 hr 28 mins    ███████▓░░░░░░░░░░░░░░░░░   30.08 %
-Kotlin            45 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.51 %
-Objective-C++     33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
-Groovy            30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
-JavaScript        22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+Kotlin            3 hrs 29 mins   ████████▒░░░░░░░░░░░░░░░░   33.33 %
+TypeScript        2 hrs 4 mins    █████░░░░░░░░░░░░░░░░░░░░   19.87 %
+Objective-C++     1 hr 45 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.74 %
+JSON              50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+Markdown          34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
 ```
 
 <!--END_SECTION:waka-->
