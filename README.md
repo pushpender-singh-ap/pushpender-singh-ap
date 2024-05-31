@@ -15,13 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 May 2024 - To: 29 May 2024
+From: 23 May 2024 - To: 30 May 2024
 
-JavaScript        45 mins         ██████████████▓░░░░░░░░░░   59.16 %
-XML               14 mins         █████░░░░░░░░░░░░░░░░░░░░   19.56 %
-JSON              7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
-Java Properties   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
-Groovy            2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+JavaScript      1 hr 59 mins    █████████████████████░░░░   84.55 %
+JSON            21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
+Objective-C++   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
