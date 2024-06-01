@@ -15,10 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2024 - To: 30 May 2024
+From: 24 May 2024 - To: 31 May 2024
 
-JavaScript      1 hr 59 mins    █████████████████████░░░░   84.55 %
-JSON            21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
+JavaScript      1 hr 59 mins    █████████████████████░░░░   84.60 %
+JSON            20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 %
 Objective-C++   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
