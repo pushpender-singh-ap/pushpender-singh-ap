@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 June 2024 - To: 20 June 2024
+From: 14 June 2024 - To: 21 June 2024
 
-JavaScript        2 hrs 40 mins   ██████████▓░░░░░░░░░░░░░░   42.85 %
-CocoaPods         1 hr 9 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.58 %
-JSON              41 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
-Groovy            39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
-Bash              39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
+JavaScript        3 hrs 52 mins   ████████████░░░░░░░░░░░░░   48.21 %
+CocoaPods         1 hr 11 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
+JSON              1 hr 7 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
+Bash              39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
+Groovy            34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
 ```
 
 <!--END_SECTION:waka-->
