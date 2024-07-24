@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 July 2024 - To: 22 July 2024
+From: 16 July 2024 - To: 23 July 2024
 
-TypeScript        4 hrs 34 mins   ██████████▓░░░░░░░░░░░░░░   42.29 %
-Python            2 hrs 36 mins   ██████░░░░░░░░░░░░░░░░░░░   24.12 %
-JavaScript        1 hr 27 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
-JSON              1 hr 23 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 %
-Groovy            29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+TypeScript        4 hrs 34 mins   ████████████▒░░░░░░░░░░░░   48.70 %
+JavaScript        2 hrs 41 mins   ███████░░░░░░░░░░░░░░░░░░   28.53 %
+JSON              1 hr 21 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 %
+Groovy            28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+XML               14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 ```
 
 <!--END_SECTION:waka-->
