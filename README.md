@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2024 - To: 23 August 2024
+From: 17 August 2024 - To: 24 August 2024
 
 JavaScript   2 hrs 30 mins   █████████████████░░░░░░░░   67.43 %
 Lua          1 hr 2 mins     ███████░░░░░░░░░░░░░░░░░░   28.06 %
