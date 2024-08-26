@@ -15,13 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2024 - To: 24 August 2024
+From: 18 August 2024 - To: 25 August 2024
 
-JavaScript   2 hrs 30 mins   █████████████████░░░░░░░░   67.43 %
-Lua          1 hr 2 mins     ███████░░░░░░░░░░░░░░░░░░   28.06 %
-JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+JavaScript   2 hrs 25 mins   ████████████████████████░   96.36 %
+JSON         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
 ```
 
 <!--END_SECTION:waka-->
