@@ -15,10 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2024 - To: 25 August 2024
+From: 19 August 2024 - To: 26 August 2024
 
-JavaScript   2 hrs 25 mins   ████████████████████████░   96.36 %
-JSON         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+JavaScript   2 hrs 25 mins   ███████████████████████▓░   95.19 %
+JSON         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
 ```
 
 <!--END_SECTION:waka-->
