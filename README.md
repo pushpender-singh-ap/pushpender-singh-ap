@@ -15,13 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2024 - To: 23 September 2024
+From: 17 September 2024 - To: 24 September 2024
 
-Java              12 mins         ████████░░░░░░░░░░░░░░░░░   31.93 %
-JavaScript        11 mins         ███████▓░░░░░░░░░░░░░░░░░   31.13 %
-XML               7 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.75 %
-Groovy            5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
-Other             1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
