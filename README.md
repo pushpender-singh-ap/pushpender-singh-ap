@@ -15,12 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2024 - To: 01 November 2024
+From: 26 October 2024 - To: 02 November 2024
 
-TypeScript      1 hr 49 mins    █████████████▒░░░░░░░░░░░   53.86 %
-Objective-C++   1 hr 23 mins    ██████████▒░░░░░░░░░░░░░░   41.14 %
-JSON            8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-JavaScript      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+JavaScript   1 hr 10 mins    ████████████████░░░░░░░░░   63.85 %
+Markdown     34 mins         ████████░░░░░░░░░░░░░░░░░   31.46 %
+Groovy       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
