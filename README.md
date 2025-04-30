@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 April 2025 - To: 28 April 2025
+From: 22 April 2025 - To: 29 April 2025
 
-JavaScript      7 hrs 14 mins   ██████████████▒░░░░░░░░░░   57.77 %
-TypeScript      1 hr 57 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
-CocoaPods       57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-Groovy          40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
-JSON            34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+JavaScript      10 hrs 6 mins   ████████████████▓░░░░░░░░   66.29 %
+TypeScript      1 hr 58 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
+CocoaPods       57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+Groovy          41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+JSON            37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
 ```
 
 <!--END_SECTION:waka-->
