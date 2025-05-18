@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 May 2025 - To: 16 May 2025
+From: 10 May 2025 - To: 17 May 2025
 
 JavaScript   1 hr 35 mins    ████████████░░░░░░░░░░░░░   48.61 %
 HTML         39 mins         █████░░░░░░░░░░░░░░░░░░░░   20.13 %
