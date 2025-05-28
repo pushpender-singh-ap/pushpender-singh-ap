@@ -15,11 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 May 2025 - To: 26 May 2025
+From: 20 May 2025 - To: 27 May 2025
 
-JavaScript   45 mins         █████████████████████░░░░   83.45 %
-JSON         6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
-Groovy       2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+Markdown     35 mins         █████████████████████▓░░░   86.98 %
+JavaScript   5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
 ```
 
 <!--END_SECTION:waka-->
