@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 June 2025 - To: 04 July 2025
+From: 28 June 2025 - To: 05 July 2025
 
-Lua               6 hrs 8 mins    █████████░░░░░░░░░░░░░░░░   35.51 %
-TypeScript        3 hrs 31 mins   █████░░░░░░░░░░░░░░░░░░░░   20.36 %
-JavaScript        2 hrs 47 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.14 %
-JSON              1 hr 39 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
-Objective-C++     51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+Lua             6 hrs 11 mins   █████████░░░░░░░░░░░░░░░░   35.69 %
+TypeScript      3 hrs 31 mins   █████░░░░░░░░░░░░░░░░░░░░   20.26 %
+JavaScript      2 hrs 32 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
+INI             1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
+JSON            1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
 ```
 
 <!--END_SECTION:waka-->
