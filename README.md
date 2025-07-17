@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 July 2025 - To: 15 July 2025
+From: 09 July 2025 - To: 16 July 2025
 
-Lua               10 hrs 19 mins  ███████████▒░░░░░░░░░░░░░   44.80 %
-Markdown          2 hrs 43 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
-JavaScript        2 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
-TypeScript        2 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
-JSON              1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Lua               10 hrs 19 mins  ███████████▒░░░░░░░░░░░░░   45.19 %
+Markdown          2 hrs 40 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
+TypeScript        2 hrs 17 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
+JavaScript        2 hrs 10 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
+JSON              1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
 ```
 
 <!--END_SECTION:waka-->
