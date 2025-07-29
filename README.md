@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 July 2025 - To: 27 July 2025
+From: 21 July 2025 - To: 28 July 2025
 
-Lua               7 hrs 38 mins   ████████████▒░░░░░░░░░░░░   48.72 %
-JavaScript        2 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.12 %
-Markdown          1 hr 50 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
-Text              1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
-Groovy            54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+Lua               13 hrs 3 mins   ███████████████▒░░░░░░░░░   61.91 %
+Markdown          1 hr 58 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+JavaScript        1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
+SQL               1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+Text              1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
 ```
 
 <!--END_SECTION:waka-->
