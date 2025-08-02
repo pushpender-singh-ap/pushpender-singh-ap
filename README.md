@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2025 - To: 31 July 2025
+From: 25 July 2025 - To: 01 August 2025
 
-Lua             12 hrs 46 mins  ███████████████▓░░░░░░░░░   62.68 %
-JavaScript      1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
-Markdown        1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
-SQL             1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-Unity3D Asset   54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+Lua             9 hrs 31 mins   █████████████▓░░░░░░░░░░░   55.28 %
+JavaScript      2 hrs 34 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 %
+SQL             1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+Unity3D Asset   54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+Markdown        43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
 ```
 
 <!--END_SECTION:waka-->
