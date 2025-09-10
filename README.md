@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2025 - To: 08 September 2025
+From: 02 September 2025 - To: 09 September 2025
 
-Python       2 hrs 49 mins   █████████░░░░░░░░░░░░░░░░   35.55 %
-Markdown     2 hrs 28 mins   ███████▓░░░░░░░░░░░░░░░░░   31.11 %
-Bash         1 hr 16 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
-JSON         31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
-JavaScript   23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+Markdown          1 hr 51 mins    █████████▒░░░░░░░░░░░░░░░   36.93 %
+Python            46 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
+CocoaPods         22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+TypeScript        22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+Kotlin            21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
 ```
 
 <!--END_SECTION:waka-->
