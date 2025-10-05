@@ -27,8 +27,8 @@ Swift             2 hrs 5 mins    ██░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-| <a><img align="center" src="https://github-readme-stats-iota-ecru-15.vercel.app/api?username=pushpender-singh-ap&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pushpender Singh github stats" /></a> | <a><img align="center" src="https://github-readme-stats-iota-ecru-15.vercel.app/api/top-langs/?username=pushpender-singh-ap&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a><img align="center" src="https://github-readme-stats-eight-psi-55.vercel.app/api?username=pushpender-singh-ap&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true" alt="Pushpender Singh github stats" /></a> | <a><img align="center" src="https://github-readme-stats-eight-psi-55.vercel.app/api/top-langs/?username=pushpender-singh-ap&layout=donut-vertical" /></a> |
 | ------------- | ------------- |
 
-| <a> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pushpender-singh-ap" /></br> </a> |
+| <a> <img align="left" src="https://github-readme-streak-stats-bice-seven.vercel.app?user=pushpender-singh-ap" /></br> </a> |
 | ------------- |
