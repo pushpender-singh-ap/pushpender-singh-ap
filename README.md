@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 October 2025 - To: 20 October 2025
+From: 14 October 2025 - To: 21 October 2025
 
-Markdown        4 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   28.53 %
-TypeScript      3 hrs 11 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.56 %
-Kotlin          2 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
-JSON            1 hr 42 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
-Swift           1 hr 33 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
+Markdown        4 hrs 13 mins   ███████▓░░░░░░░░░░░░░░░░░   31.31 %
+TypeScript      2 hrs 32 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.82 %
+Kotlin          2 hrs 4 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
+JSON            1 hr 35 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
+Swift           1 hr 24 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
 ```
 
 <!--END_SECTION:waka-->
