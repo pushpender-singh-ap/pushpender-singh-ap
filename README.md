@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2025 - To: 01 November 2025
+From: 27 October 2025 - To: 03 November 2025
 
-Kotlin       19 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.52 %
-Other        14 mins         █████░░░░░░░░░░░░░░░░░░░░   19.79 %
-JSON         13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
-TypeScript   9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
-Markdown     6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+Other        14 mins         ███████░░░░░░░░░░░░░░░░░░   27.39 %
+JSON         12 mins         ██████░░░░░░░░░░░░░░░░░░░   23.79 %
+TypeScript   9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.37 %
+Markdown     6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
+JavaScript   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
 ```
 
 <!--END_SECTION:waka-->
