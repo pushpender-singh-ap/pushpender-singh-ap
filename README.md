@@ -15,11 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 November 2025 - To: 15 November 2025
+From: 09 November 2025 - To: 16 November 2025
 
-JSON         22 mins         ████████████████████████░   96.65 %
-JavaScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JSON   9 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
