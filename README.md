@@ -15,9 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2025 - To: 23 November 2025
+From: 17 November 2025 - To: 24 November 2025
 
-Text   0 secs          █████████████████████████   100.00 %
+Swift           15 mins         █████████████▒░░░░░░░░░░░   52.92 %
+Markdown        9 mins          ████████▓░░░░░░░░░░░░░░░░   34.24 %
+TypeScript      1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Objective-C++   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+Kotlin          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
 ```
 
 <!--END_SECTION:waka-->
