@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2025 - To: 24 November 2025
+From: 18 November 2025 - To: 25 November 2025
 
-Swift           15 mins         █████████████▒░░░░░░░░░░░   52.92 %
-Markdown        9 mins          ████████▓░░░░░░░░░░░░░░░░   34.24 %
-TypeScript      1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-Objective-C++   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-Kotlin          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Swift           49 mins         █████████░░░░░░░░░░░░░░░░   35.84 %
+Markdown        34 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.24 %
+TypeScript      26 mins         █████░░░░░░░░░░░░░░░░░░░░   19.59 %
+JavaScript      15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
+JSON            6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
 ```
 
 <!--END_SECTION:waka-->
