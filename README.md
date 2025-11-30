@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2025 - To: 28 November 2025
+From: 22 November 2025 - To: 29 November 2025
 
 JavaScript        2 hrs 12 mins   █████████▒░░░░░░░░░░░░░░░   37.24 %
 Swift             49 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
