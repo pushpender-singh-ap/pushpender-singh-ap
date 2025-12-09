@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2025 - To: 07 December 2025
+From: 01 December 2025 - To: 08 December 2025
 
 JavaScript   1 hr 45 mins    ████████████████████▓░░░░   82.08 %
 Markdown     9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
