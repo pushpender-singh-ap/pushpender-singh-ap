@@ -15,13 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 December 2025 - To: 22 December 2025
+From: 16 December 2025 - To: 23 December 2025
 
-JavaScript      1 hr            ████████████████▒░░░░░░░░   65.21 %
-Markdown        14 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
-HTML            7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
-Swift           4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-Kotlin          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+JavaScript   1 hr            █████████████████████▓░░░   86.70 %
+HTML         7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
+CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
